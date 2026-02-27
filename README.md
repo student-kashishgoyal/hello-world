@@ -1,2 +1,2 @@
 # hello-world
-let me go
+let me go.
